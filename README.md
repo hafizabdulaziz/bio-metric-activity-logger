@@ -1,39 +1,16 @@
-# running-tracker-pro
-A Python-based CLI running tracker that logs daily runs and visualizes progress using matplotlib.
 
+# 🏃‍♂️ Running Tracker Pro (CLI)
 
-# 🏃 Running Tracker Pro
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Fitness](https://img.shields.io/badge/Domain-Fitness-orange?style=for-the-badge)
 
-A simple and professional command-line running tracker built with Python.  
-Track your daily runs and visualize your progress with graphs.
+A professional command-line fitness tracker designed to monitor daily runs, calculate pace/speed, and manage activity history. Built with a focus on clean data management and user performance metrics.
 
----
-
-## 🚀 Features
-
-- Log  your daily running distance
-- Store data in CSV format
-- Visualize progress using matplotlib
-- Clean CLI interface
+## 🌟 Features
+- **Pace Calculation:** Automatic calculation of speed based on distance and time.
+- **Activity History:** Persistent storage of your running logs.
+- **Performance Analytics:** Track your progress over time with structured reports.
+- **CLI Interface:** Fast and lightweight terminal interactions.
 
 ---
-
-## 🛠️ Tech Stack
-
-- Python
-- Pandas
-- Matplotlib
-
----
-
-## 📊 Sample Output
-
-![Running Graph](assets/graph.png)
-
----
-
-## ▶️ How to Run
-
-```bash
-pip install -r requirements.txt
-python running_tracker.py
+<p align="center">Made with ❤️ by <a href="https://github.com/hafizabdulaziz">Abdul Aziz</a></p>
